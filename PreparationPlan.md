@@ -23,7 +23,7 @@ This list covers all the **DSA questions** categorized by topic that are commonl
 12. Sliding Window Maximum
 13. Subarray Sum Equals K
 14. Maximum Product Subarray
-15. Minimum Swaps to Group Elements
+15. Minimum Swaps to Group Elements II
 
 ---
 
