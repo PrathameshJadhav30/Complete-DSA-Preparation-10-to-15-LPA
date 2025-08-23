@@ -35,7 +35,7 @@ This list covers all the **DSA questions** categorized by topic that are commonl
 4. Group Anagrams
 5. Valid Palindrome
 6. Longest Common Prefix
-7. Longest Repeating Substring
+7. Reverse String
 8. Edit Distance (Levenshtein)
 9. Rabin-Karp (Pattern Matching)
 10. Z-Algorithm / KMP Algorithm
