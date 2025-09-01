@@ -37,7 +37,7 @@ This list covers all the **DSA questions** categorized by topic that are commonl
 6. Longest Common Prefix
 7. Reverse String
 8. Edit Distance (Levenshtein)
-9. Rabin-Karp (Pattern Matching)
+9. Length of Last Word
 10. Z-Algorithm / KMP Algorithm
 11. String Compression
 12. Check for Rotation
