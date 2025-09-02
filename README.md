@@ -38,7 +38,7 @@ This list covers all the **DSA questions** categorized by topic that are commonl
 7. Reverse String
 8. Edit Distance (Levenshtein)
 9. Length of Last Word
-10. Z-Algorithm / KMP Algorithm
+10. Find the Index of the First Occurrence in a String
 11. String Compression
 12. Check for Rotation
 13. Integer to Roman / Vice Versa
