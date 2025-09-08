@@ -41,7 +41,8 @@ This list covers all the **DSA questions** categorized by topic that are commonl
 10. Find the Index of the First Occurrence in a String
 11. String Compression
 12. Check for Rotation
-13. Integer to Roman / Vice Versa
+13. Integer to Roman 
+14. Roman to Integer
 
 ---
 
